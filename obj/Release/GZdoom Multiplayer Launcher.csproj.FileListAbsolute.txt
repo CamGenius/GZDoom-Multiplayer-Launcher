@@ -1,0 +1,15 @@
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Release\GZdoom Multiplayer Launcher.exe.config
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Release\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Release\GZdoom Multiplayer Launcher.pdb
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\MainWindow.g.cs
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\App.g.cs
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher_MarkupCompile.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher_MarkupCompile.lref
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\MainWindow.baml
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.g.resources
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom_Multiplayer_Launcher.Properties.Resources.resources
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.pdb
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Release\GZdoom Multiplayer Launcher.csprojResolveAssemblyReference.cache
