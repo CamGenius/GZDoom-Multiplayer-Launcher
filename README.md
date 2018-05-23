@@ -16,6 +16,10 @@ Simple Multiplayer Launcher for GZDoom found here: [https://zdoom.org/index](htt
 - Port Number
 - Additional Commands
 
+## Usage
+
+Place GZDoom Multiplayer Launcher in the root directory of your gzdoom folder then run.
+
 ## Limitations/Future Improvements
 
 - Currently only works on Doom shareware version, Doom full version, and Doom Ultimate with the default wad being loaded automatically.
