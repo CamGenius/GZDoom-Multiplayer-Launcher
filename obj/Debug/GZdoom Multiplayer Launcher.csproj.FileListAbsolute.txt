@@ -1,0 +1,30 @@
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Debug\GZdoom Multiplayer Launcher.exe.config
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Debug\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\bin\Debug\GZdoom Multiplayer Launcher.pdb
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\App.g.cs
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher_MarkupCompile.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher_MarkupCompile.lref
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\MainWindow.baml
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.g.resources
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom_Multiplayer_Launcher.Properties.Resources.resources
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\source\repos\GZdoom Multiplayer Launcher\GZdoom Multiplayer Launcher\obj\Debug\GZdoom Multiplayer Launcher.pdb
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\bin\Debug\GZdoom Multiplayer Launcher.exe.config
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\bin\Debug\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\bin\Debug\GZdoom Multiplayer Launcher.pdb
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\App.g.cs
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher_MarkupCompile.cache
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher_MarkupCompile.lref
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\MainWindow.baml
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.g.resources
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom_Multiplayer_Launcher.Properties.Resources.resources
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.csproj.GenerateResource.cache
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.exe
+C:\Users\Cameron\Documents\Projects\GZDoom-Multiplayer-Launcher\obj\Debug\GZdoom Multiplayer Launcher.pdb
