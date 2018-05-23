@@ -24,5 +24,6 @@ Place GZDoom Multiplayer Launcher in the root directory of your gzdoom folder th
 
 ## Limitations/Future Improvements
 
-- Currently only works on Doom shareware version, Doom full version, and Doom Ultimate with the default wad being loaded automatically.
+- Currently only works on Doom shareware version, Doom full version, and Doom Ultimate with the default wad being loaded automatically. This can be overwritten with the additional commands option but the episode and map you play on cannot.
+
 
