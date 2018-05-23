@@ -16,6 +16,8 @@ Simple Multiplayer Launcher for GZDoom found here: [https://zdoom.org/index](htt
 - Port Number
 - Additional Commands
 
+![alt text](screenshots/GZDoom-Multiplayer-Launcher-Screenshot.png)
+
 ## Usage
 
 Place GZDoom Multiplayer Launcher in the root directory of your gzdoom folder then run.
