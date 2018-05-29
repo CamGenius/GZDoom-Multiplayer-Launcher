@@ -10,8 +10,9 @@
         <RadioButton x:Name="Host" Content="Host" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" GroupName="HostOrJoin" Checked="Host_Checked"/>
         <RadioButton x:Name="Join" Content="Join" HorizontalAlignment="Left" Margin="530,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.55,-1.067" GroupName="HostOrJoin" Checked="Join_Checked"/>
         <Grid x:Name="hGrid" HorizontalAlignment="Left" Height="175" Margin="10,30,0,0" VerticalAlignment="Top" Width="515" IsEnabled="False">
-            <Slider x:Name="PlayerCount" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="200" Maximum="8" Minimum="1" Value="2" AutoToolTipPlacement="TopLeft" IsSnapToTickEnabled="True" ValueChanged="PlayerCount_ValueChanged"/>
+            <Slider x:Name="PlayerCount" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="183" Maximum="8" Minimum="1" Value="2" IsSnapToTickEnabled="True" ValueChanged="PlayerCount_ValueChanged"/>
             <Label Content="Player Count (including the host)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="PlayerCountLabel" Content="2" HorizontalAlignment="Left" Margin="189,36,0,0" VerticalAlignment="Top" Loaded="PlayerCountLabel_Loaded"/>
             <Label Content="Game Type" HorizontalAlignment="Left" Margin="210,10,0,0" VerticalAlignment="Top"/>
             <ComboBox x:Name="Gametype" HorizontalAlignment="Left" Margin="210,37,0,0" VerticalAlignment="Top" Width="145" SelectedIndex="0">
                 <ComboBoxItem x:Name="Co_op" ToolTip="Cooperative gameplay" Selected="Co_op_Selected">Co-op</ComboBoxItem>

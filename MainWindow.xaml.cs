@@ -47,6 +47,7 @@ namespace GZdoom_Multiplayer_Launcher
         String type = null;
 
         int playerCount = 2;
+        Boolean playerCountLoaded = false;
         String gameType = "";
         int difficulty = 2;
         int episode = 1;
@@ -82,9 +83,18 @@ namespace GZdoom_Multiplayer_Launcher
             type = "C";
         }
 
+        private void PlayerCountLabel_Loaded(object sender, RoutedEventArgs e)
+        {
+            playerCountLoaded = true;
+        }
+
         private void PlayerCount_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             playerCount = Convert.ToInt32(PlayerCount.Value);
+            if (playerCountLoaded == true)
+            {
+                PlayerCountLabel.Content = PlayerCount.Value;
+            }
         }
 
         private void Co_op_Selected(object sender, RoutedEventArgs e)
